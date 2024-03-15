@@ -1,0 +1,6 @@
+[requires]
+openssl/3.2.1
+fmt/10.2.1
+[generators]
+CMakeDeps
+CMakeToolchain

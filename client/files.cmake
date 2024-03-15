@@ -1,0 +1,16 @@
+set(SOURCE_FILES
+    "src/util/hex.c"
+    "src/util/hashing.c"
+    "src/util/string.c"
+    "src/util/base64.c"
+    "src/util/time.cpp"
+    "src/network/error.cpp"
+    "src/network/cache.cpp"
+    "src/modpack/modpack.cpp"
+    "src/fs/installs.c"
+    "src/fs/files.c"
+    "src/fs/info.c"
+    "src/fs/lsf.c"
+    "src/main.cpp"
+    "src/mod/mod.cpp"
+)

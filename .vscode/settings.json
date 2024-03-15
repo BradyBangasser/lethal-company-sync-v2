@@ -1,0 +1,12 @@
+{
+    "cmake.sourceDirectory": "/Users/bradybangasser/Documents/code/C++/lethal-sync-v2/client",
+    "files.associations": {
+        "*.ts": "typescript",
+        "format": "cpp",
+        "__config": "cpp",
+        "__tree": "cpp",
+        "optional": "cpp",
+        "span": "cpp",
+        "variant": "cpp"
+    }
+}
